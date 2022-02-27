@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-best-practice",
+  "version": "1.0.0",
+  "description": "boilerplate code for best practices nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezzaDanialitt440/nodejs-best-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jest",
+    "typescript"
+  ],
+  "author": "Rezza Danial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezzaDanialitt440/nodejs-best-practice/issues"
+  },
+  "homepage": "https://github.com/RezzaDanialitt440/nodejs-best-practice#readme"
+}
